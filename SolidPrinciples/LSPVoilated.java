@@ -28,7 +28,7 @@ class FixedDeposit implements Accounts{
         System.out.println("money is deposited from FD");
     } 
     public void withdraw(){
-        throw new Exception("No withdraw found");
+        //throw new Exception("No withdraw found");
     }
 }
 

@@ -30,7 +30,7 @@ class FixedDeposit implements NonWithDrawableAccounts{
         System.out.println("money is deposited from FD");
     } 
     public void withdraw(){
-        throw new Exception("No withdraw found");
+        //throw new Exception("No withdraw found");
     }
 }
 class BankClient{
